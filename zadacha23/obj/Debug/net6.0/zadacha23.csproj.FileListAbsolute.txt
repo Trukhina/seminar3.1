@@ -1,0 +1,15 @@
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/bin/Debug/net6.0/zadacha23
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/bin/Debug/net6.0/zadacha23.deps.json
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/bin/Debug/net6.0/zadacha23.runtimeconfig.json
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/bin/Debug/net6.0/zadacha23.dll
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/bin/Debug/net6.0/zadacha23.pdb
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/obj/Debug/net6.0/zadacha23.csproj.AssemblyReference.cache
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/obj/Debug/net6.0/zadacha23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/obj/Debug/net6.0/zadacha23.AssemblyInfoInputs.cache
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/obj/Debug/net6.0/zadacha23.AssemblyInfo.cs
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/obj/Debug/net6.0/zadacha23.csproj.CoreCompileInputs.cache
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/obj/Debug/net6.0/zadacha23.dll
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/obj/Debug/net6.0/refint/zadacha23.dll
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/obj/Debug/net6.0/zadacha23.pdb
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/obj/Debug/net6.0/zadacha23.genruntimeconfig.cache
+/Users/tatanatruhina/S3/seminar3.1/zadacha23/obj/Debug/net6.0/ref/zadacha23.dll
